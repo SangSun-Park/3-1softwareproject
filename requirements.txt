@@ -1,0 +1,9 @@
+numpy < 1.19.0
+cmake
+OpenCV-python
+bs4
+tensorflow
+mtcnn
+scikit-learn
+moviepy
+face-recognition
